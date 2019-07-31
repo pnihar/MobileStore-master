@@ -10,3 +10,4 @@ admin.site.register(DeviceDetails)
 
 admin.site.register(Devices)
 
+##adding test
